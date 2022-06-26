@@ -32,15 +32,21 @@ Here are some ideas to get you started:
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=VaishnaviMandloi&style=flat-square&color=blue" alt=""/>
-<div>
-  
+
 <h1>
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
 </h1>
 
-  ---
-
 ### 3rd YEAR COMPUTER SCIENCE ENGINEERING STUDENT 👩‍🎓
-  
-  
+
+</div>
+ 
+I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+  and a learner who is learning full stack development
+- :seedling: AI ML .
+
+- :zap: In my free time, I explore what's going around and what happened in history !!!
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Vaishnavi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vaishnavi-mandloi-18ba2a206)
+
