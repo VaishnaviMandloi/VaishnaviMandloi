@@ -74,5 +74,10 @@ Here are some ideas to get you started:
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=VaishnaviMandloi&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
+<img src="https://github-readme-stats.vercel.app/api?username=VaishnaviMandloi&count_private=true&show_icons=true&theme=radical" alt="GitHub Status"/>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VaishnaviMandloi&layout=compact&theme=vision-friendly-dark)](https://github.com/VaishnaviMandloi/github-readme-stats)
 
+![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=VaishnaviMandloi&theme=xcode)
+
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=VaishnaviMandloi&theme=theme_name)
