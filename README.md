@@ -43,8 +43,8 @@ Here are some ideas to get you started:
 </div>
  
 :woman_technologist: I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-  and a learner who is learning full stack development .
-- :seedling: Exploring AI ML .
+
+- :seedling: And a learner who is learning full stack development .
 
 - :zap: In my free time, I explore what's going around and what happened in history !!!
 
