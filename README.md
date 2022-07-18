@@ -44,7 +44,7 @@ Here are some ideas to get you started:
  
 :woman_technologist: I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- :seedling: And a learner who is learning full stack development .
+- :seedling: a learner who is learning full stack development .
 
 - :zap: In my free time, I explore what's going around and what happened in history !!!
 
