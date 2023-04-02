@@ -42,9 +42,9 @@ Here are some ideas to get you started:
 
 </div>
  
-:woman_technologist: I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+:woman_technologist: I am a full stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- :seedling: a learner who is learning full stack development .
+- :seedling: a learner who is learning AI & Ml .
 
 - :zap: In my free time, I explore what's going around and what happened in history !!!
 
