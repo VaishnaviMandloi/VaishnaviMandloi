@@ -78,7 +78,7 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VaishnaviMandloi&layout=compact&theme=vision-friendly-dark)](https://github.com/VaishnaviMandloi/github-readme-stats)
 
-![Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=VaishnaviMandloi&bg_color=ffffff&color=4c9e65&line=00ff04&point=559c54&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=VaishnaviMandloi&bg_color=ffffff&color=4c9e65&line=00ff04&point=559c54&area=true&hide_border=true)
 <!--(https://activity-graph.herokuapp.com/graph?username=VaishnaviMandloi&theme=xcode)-->
 
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=VaishnaviMandloi&theme=theme_name)
