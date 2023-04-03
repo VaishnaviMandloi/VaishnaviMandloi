@@ -78,6 +78,7 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VaishnaviMandloi&layout=compact&theme=vision-friendly-dark)](https://github.com/VaishnaviMandloi/github-readme-stats)
 
-![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=VaishnaviMandloi&theme=xcode)
+![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=VaishnaviMandloi&hide_border=true&area=true&point=transparent&theme=xcode)
+<--(https://activity-graph.herokuapp.com/graph?username=VaishnaviMandloi&theme=xcode)-->
 
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=VaishnaviMandloi&theme=theme_name)
