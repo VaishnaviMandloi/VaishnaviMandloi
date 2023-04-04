@@ -67,6 +67,12 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="40" height="40"/>
+  
+  <img src="https://skillicons.dev/icons?i=flask" title="Flask" alt="flask" width="40" height="40"/>
+  
+  <img src="https://skillicons.dev/icons?i=mysql&theme=light" title="mysql" alt="mysql" width="40" height="40"/>
+  
+  <img src="https://skillicons.dev/icons?i=py" title="python" alt="python" width="40" height="40"/>
 </div>
 
 ---
